@@ -1157,13 +1157,15 @@ ul {
 }
 .footer_part .single_footer_part p {
   margin-bottom: 10px;
-  font-size: 30px;
-  font-weight: bold;
-  margin-left: 300px;
-  color: #000;
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: auto;
+  text-align: center;
+  color: #182028;
+  line-height: 1.2em;
 }
 .footer_part .single_footer_part .list-unstyled li a {
-  color: #000;
+  color: #182028;
   margin-bottom: 10px;
   display: inline-block;
 }
@@ -1419,6 +1421,7 @@ h6 {
 }
 .footer_part .single_footer_part p {
   margin-bottom: 10px;
+  text-align: center;
 }
 .footer_part .single_footer_part .list-unstyled li a {
   color: #888;
